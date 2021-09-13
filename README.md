@@ -6,10 +6,23 @@ BEST INTERNET BOOST SETUP, SUPPORT WIFI, MOBILE DATA, ROAM AND A LOT MORE, BY FI
 
 IN THIS VERSION SETUP GOT UPDATED TO v2.0045.1 AND OTHER STUFFS TOO FOR BETTER PERFORMANCE.
 
+
 # Terms and Condition Document
 
 Naturally, you take all the responsibility for what happens when you start messing around with things. we will not be responsible for ANY damage caused to anyone due to the use of any stuffs from our services.
 
+
+# Installation
+
+Click here to watch how to install it on magisk if you didn't know how to do it.
+
+https://telegra.ph/file/c62204163d17f5a0bbd2c.mp4
+
+# Requirements
+
+- Rooted device.
+- Magisk root installed on your device.
+- Any version of Magisk app that will work on your android version.
 
 # Download 
 
