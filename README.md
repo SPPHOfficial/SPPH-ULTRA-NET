@@ -13,4 +13,6 @@ Naturally, you take all the responsibility for what happens when you start messi
 
 # Download 
 
-Click here https://drive.google.com/file/d/1-5eV9540s1a5Zly5-cuInVL177Vh3y8t/view?usp=drivesdk to download
+Click here to download if you don't know how to clone full repository codes here on Github
+
+https://drive.google.com/file/d/1-5eV9540s1a5Zly5-cuInVL177Vh3y8t/view?usp=drivesdk
