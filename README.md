@@ -9,3 +9,8 @@ IN THIS VERSION SETUP GOT UPDATED TO v2.0045.1 AND OTHER STUFFS TOO FOR BETTER P
 # Terms and Condition Document
 
 Naturally, you take all the responsibility for what happens when you start messing around with things. we will not be responsible for ANY damage caused to anyone due to the use of any stuffs from our services.
+
+
+# Download 
+
+Click here https://drive.google.com/file/d/1-5eV9540s1a5Zly5-cuInVL177Vh3y8t/view?usp=drivesdk to download
