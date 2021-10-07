@@ -7,6 +7,8 @@ BEST INTERNET BOOST SETUP, SUPPORT WIFI, MOBILE DATA, ROAM AND A LOT MORE, BY FI
 
 IN THIS VERSION SETUP GOT UPDATED TO v2.0045.1 AND OTHER STUFFS TOO FOR BETTER PERFORMANCE.
 
+# Changelog 
+Customize sys net stuffs from tcp to core for better internet performance, its pv4 customization, given credits to @imUsiF12
 
 # Terms and Condition Document
 
